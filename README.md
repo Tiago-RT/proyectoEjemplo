@@ -1,4 +1,3 @@
 # proyectoEjemplo
 reposirorio de prueba
-
-autor: tiago rodrigo
+autor: tiago rodrigo;
